@@ -1,4 +1,5 @@
 📅 Calendar Application (C Language)
+
 📌 Project Description
 
 This project is a console-based calendar application developed in C.
@@ -33,7 +34,7 @@ Platform: Windows (Console-based)
 
 Clone the repository:
 
-git clone https://github.com/your-username/calendar-c-project.git
+git clone https://github.com/kritika660/Calendar-using-C.git
 
 Navigate to the project folder:
 
@@ -46,12 +47,8 @@ gcc calendar.c -o calendar
 Run the executable:
 
 calendar
-📂 Project Structure
-calendar-c-project/
-│
-├── calendar.c        # Main source file
-├── README.md         # Project documentation
-└── assets/           # (Optional) Screenshots
+
+
 🧠 Concepts Used
 
 Functions
